@@ -675,6 +675,10 @@ span{
         background: var(--bg-color);
     }
 
+    .home img {
+        display: none;
+    }
+
     #menu-icon {
         display: block;
     }
